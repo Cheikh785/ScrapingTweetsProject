@@ -18,4 +18,4 @@ Voici un aperçu des tweets stockés dans une base de données
 ### SHARING & SUPPORT 💪️
 Si vous avez trouvé ce projet intéréssant, n'hésitez pas à `laisser une étoile` 🌟️ et à me `contactez`.
 
-[![My Twitter Link](https://img.shields.io/twitter/follow/derguene?style=social)](https://twitter.com/derguene)
+[![My Twitter Link](https://img.shields.io/twitter/follow/__ElCof__?style=social)](https://twitter.com/__ElCof__)
