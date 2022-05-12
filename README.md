@@ -15,4 +15,7 @@ Voici un aperçu des tweets stockés dans une base de données
 ![presentationTweets](https://user-images.githubusercontent.com/61129893/168083003-b8c384e0-f71c-423e-b3cf-768e6778eadf.gif)
 
 
+### SHARING & SUPPORT 💪️
+Si vous avez trouvé ce projet intéréssant, n'hésitez pas à `laisser une étoile` 🌟️ et à me `contactez`.
 
+[![My Twitter Link](https://img.shields.io/twitter/follow/derguene?style=social)](https://twitter.com/derguene)
