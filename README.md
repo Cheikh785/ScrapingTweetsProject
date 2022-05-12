@@ -10,6 +10,9 @@ il recherche de nouvelles données et les enregistre automatique dans la base de
 
 Voici un aperçu des tweets stockés dans une base de données
 
+![presentationTweets](https://user-images.githubusercontent.com/61129893/168083003-b8c384e0-f71c-423e-b3cf-768e6778eadf.gif)
+
+
 https://user-images.githubusercontent.com/61129893/168082129-dedbfd54-d981-4265-bc44-2a382cb38258.mp4
 
 
