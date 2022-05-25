@@ -4,15 +4,15 @@ import twitter
 import mysql.connector
 from datetime import date, datetime, timedelta
 
-CONSUMER_KEY = '9M5yQJmaoccp04zVqxJ3RvQBC'
-CONSUMER_SECRET = 'EnrbuqluYps3CAqH9LgseyXtsgoyc88ISpF0ph25y80akkUdYU'
-ACCESS_TOKEN = '1039683624759701504-Ndg38lKmYttLXxDUw86fyJwb3EnW9h'
-ACCESS_TOKEN_SECRET = 'PLro4GFJpCWt0DybcwOSBvFtDxReYkZpqJyegdqoFrZuV'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+ACCESS_TOKEN = ''
+ACCESS_TOKEN_SECRET = ''
 
 mydb = mysql.connector.connect(
 	host = "localhost",
 	user = "root",
-	password = "passer",
+	password = "",
 	database = "getTweetsProject",
 	auth_plugin = "mysql_native_password"
 )
